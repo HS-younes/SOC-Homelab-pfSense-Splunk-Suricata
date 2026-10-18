@@ -12,7 +12,8 @@
 
 ## Network Topology
 
-![Network Topology](images/topology.png)
+<img width="1382" height="842" alt="image" src="https://github.com/user-attachments/assets/ad326407-5b3b-4ca9-8bc7-c8926c45a7c3" />
+
 
 ### Subnet & Interface Table
 
